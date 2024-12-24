@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_5yCX0MHhEe-XILDpKbIdnA" label="TAC_Linux" description="" language="java" technicalLabel="TAC_LINUX" author="_5yCX0cHhEe-XILDpKbIdnA" productVersion="Talend Real-time Big Data Platform-8.0.1.20240524_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/siki4946/TAC_Linux.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ">
+    <migrationTask xmi:id="_5yfDwMHhEe-XILDpKbIdnA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_5yCX0cHhEe-XILDpKbIdnA" login="k-takahashi@air.co.jp" firstName="kazuki" lastName="takahashi" type="DQ" additionnalData="{}"/>
+</xmi:XMI>
